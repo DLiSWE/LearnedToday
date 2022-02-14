@@ -70,12 +70,26 @@
 # a,b = 10
 # print(a)
 # print(b)
-list1 = 'abcdefg'
-result = ''
-for i in list1[1::2]:
-    print(i)
+# list1 = 'abcdefg'
+# result = ''
+# print(list(list1))
 
+# print(str(int(float(2))) + 'h')
+# if not 1 in [10,20] and 1<2:
+#     print(1)
+# else:
+#     print(2)
 
+print(4+3+3+2+2+7+6+5+5+4)
+
+# something = [1,3,5]
+# something1 = [1,5,3]
+# result = []
+# vari = ["eat","tea","tan","ate","nat","bat"]
+
+# for i in vari:
+#     for x in i:
+        
 
 # nums = [0,0,1,1,1,2,2,3,3,4]
 # class Solution:
